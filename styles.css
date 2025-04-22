@@ -1,6 +1,7 @@
 .encabezado{
     background-color: rgb(24, 125, 203);
     display: flex;
+    font-family: arial;
 }
 
 .imgFoto{
@@ -10,17 +11,20 @@
 
 .textoEncabezado{
     align-self: center;
+    font-family: arial;
 }
 
 .contacto{
     display: flex;
     margin-top: 20px;
     justify-content: center;
+    font-family: arial;
 }
 
 .telefono{
     display: flex;
     justify-content: center;
+    font-family: arial;
 }
 
 .imgTelefono{
@@ -31,12 +35,13 @@
     margin-inline-end: 0px;
     unicode-bidi: isolate;width: 15px;
    height: 15px;
-   margin-right: 20px;
+   margin-right: 10px;
 }
 
 .email{
     display: flex;
     justify-content: center;
+    font-family: arial;
 }
 
 .imgEmail{
@@ -47,12 +52,13 @@
     margin-inline-end: 0px;
     unicode-bidi: isolate;width: 15px;
    height: 15px;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 .linkedin{
     display: flex;
     justify-content: center;
+    font-family: arial;
 }
 
 .imgLinkedin{
@@ -63,16 +69,33 @@
     margin-inline-end: 0px;
     unicode-bidi: isolate;width: 15px;
    height: 15px;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
-.objetivoProfesional{
+.objetivo{
     display: flex;
-    margin-top: 20px;
+    margin-top: 40px;
     justify-content: center;
+    font-family: arial;
 }
 
-.textoObjetivo1{
-   display: flex;
-   text-align: center;
+.textoObjetivo{
+    display: flex;
+    width: 75%;
+    justify-content: center;
+    font-family: arial;
+}
+
+.textoObjetivo2{
+    display: flex;
+    width: 75%;
+    justify-content: center;
+    font-family: Arial;
+}
+
+.formacion{
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    font-family: arial;
 }
