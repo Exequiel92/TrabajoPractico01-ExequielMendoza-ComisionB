@@ -12,32 +12,30 @@
     align-self: center;
 }
 
+.contactos{
+    margin-top: 20px;
+    justify-content: center;
+}
+
 .telefono {
     display: flex;
+    justify-content: center;
 }
 
 .imgTelefono {
-   width: 5%;
+   width: 3%;
+   height: 3%;
    margin-right: 20px;
-   margin-top: 20px;
+  
 }
 
-.textoTelefono {
-    margin-top: 20px;
-    align-self: center;
-}
-
-.email {
+.email{
     display: flex;
+    justify-content: center;
 }
 
 .imgEmail{
-    width: 5%;
-    margin-top: 20px;
+    width: 3%;
+    height: 3%;
     margin-right: 20px;
-}
-
-.textoEmail{
-    margin-top: 20px;
-    align-self: center;
 }
