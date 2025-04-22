@@ -163,3 +163,38 @@
     font-family: arial;
     color: rgb(24, 125, 203);
 }
+
+.a2023{
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+}
+
+.año23{
+    background-color: rgb(24, 125, 203);
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    font-family: arial;
+}
+
+.md{
+    margin-top: 30px;
+    color: rgb(24, 125, 203);
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+}
+
+.lr{
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+}
+
+.inicio{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+}
