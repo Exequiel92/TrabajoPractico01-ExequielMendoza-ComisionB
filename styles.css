@@ -19,6 +19,7 @@
     margin-top: 20px;
     justify-content: center;
     font-family: arial;
+    color: rgb(24, 125, 203);
 }
 
 .telefono{
@@ -77,6 +78,8 @@
     margin-top: 40px;
     justify-content: center;
     font-family: arial;
+    color: rgb(24, 125, 203);
+
 }
 
 .textoObjetivo{
@@ -98,4 +101,5 @@
     margin-top: 40px;
     justify-content: center;
     font-family: arial;
+    color: rgb(24, 125, 203);
 }
