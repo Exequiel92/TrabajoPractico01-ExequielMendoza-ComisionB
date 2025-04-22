@@ -82,18 +82,17 @@
 
 }
 
-.textoObjetivo{
+.objetivo1{
     display: flex;
-    width: 75%;
     justify-content: center;
     font-family: arial;
 }
 
-.textoObjetivo2{
+.objetivo2{
     display: flex;
-    width: 75%;
     justify-content: center;
     font-family: Arial;
+    
 }
 
 .formacion{
@@ -124,6 +123,34 @@
 }
 
 .unlar{
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+}
+
+.experiencia{
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    font-family: arial;
+    color: rgb(24, 125, 203);
+}
+
+.equipoTecnico{
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+}
+
+.puntoDigital{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+}
+
+.auxiliar{
+    margin-top: 30px;
     display: flex;
     justify-content: center;
     font-family: arial;
