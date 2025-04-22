@@ -155,3 +155,11 @@
     justify-content: center;
     font-family: arial;
 }
+
+.adicional{
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    font-family: arial;
+    color: rgb(24, 125, 203);
+}
