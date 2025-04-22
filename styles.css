@@ -103,3 +103,28 @@
     font-family: arial;
     color: rgb(24, 125, 203);
 }
+
+.programacion{
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+}
+
+.utn{
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+}
+
+.psiOrg{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+}
+
+.unlar{
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+}
