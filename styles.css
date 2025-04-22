@@ -1,0 +1,14 @@
+.encabezado {
+    background-color: rgb(24, 125, 203);
+    display: flex;
+}
+
+
+.foto {
+    width: 150px;
+    margin-right: 20px;
+}
+
+.textoEncabezado {
+    align-self: center;
+}
