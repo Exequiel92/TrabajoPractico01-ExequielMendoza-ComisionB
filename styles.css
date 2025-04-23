@@ -171,6 +171,13 @@
     font-family: arial;
 }
 
+.otros{
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+    margin-block-end: 50px;
+}
+
 .año23{
     background-color: rgb(24, 125, 203);
     display: flex;
@@ -199,4 +206,5 @@
     display: flex;
     justify-content: center;
     font-family: arial;
+    margin-block-end: 50px;
 }
