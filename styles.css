@@ -83,16 +83,19 @@
 
 }
 
-.objetivo1{
+.objetivo1 {
     display: flex;
     justify-content: center;
-    font-family: arial;
+    font-family: Arial;
+    text-align: center;
 }
+
 
 .objetivo2{
     display: flex;
     justify-content: center;
     font-family: Arial;
+    text-align: center;
     
 }
 
@@ -107,26 +110,30 @@
 .programacion{
     display: flex;
     justify-content: center;
-    font-family: arial;
+    font-family: Arial;
+    text-align: center;
 }
 
 .utn{
     display: flex;
     justify-content: center;
-    font-family: arial;
+    font-family: Arial;
+    text-align: center;
 }
 
 .psiOrg{
     margin-top: 30px;
     display: flex;
     justify-content: center;
-    font-family: arial;
+    font-family: Arial;
+    text-align: center;
 }
 
 .unlar{
     display: flex;
     justify-content: center;
-    font-family: arial;
+    font-family: Arial;
+    text-align: center;
 }
 
 .experiencia{
@@ -140,21 +147,24 @@
 .equipoTecnico{
     display: flex;
     justify-content: center;
-    font-family: arial;
+    font-family: Arial;
+    text-align: center;
 }
 
 .puntoDigital{
     margin-top: 30px;
     display: flex;
     justify-content: center;
-    font-family: arial;
+    font-family: Arial;
+    text-align: center;
 }
 
 .auxiliar{
     margin-top: 30px;
     display: flex;
     justify-content: center;
-    font-family: arial;
+    font-family: Arial;
+    text-align: center;
 }
 
 .adicional{
@@ -168,7 +178,8 @@
 .a2023{
     display: flex;
     justify-content: center;
-    font-family: arial;
+    font-family: Arial;
+    text-align: center;
 }
 
 .otros{
@@ -192,13 +203,15 @@
     color: rgb(24, 125, 203);
     display: flex;
     justify-content: center;
-    font-family: arial;
+    font-family: Arial;
+    text-align: center;
 }
 
 .lr{
     display: flex;
     justify-content: center;
-    font-family: arial;
+    font-family: Arial;
+    text-align: center;
 }
 
 .inicio{
