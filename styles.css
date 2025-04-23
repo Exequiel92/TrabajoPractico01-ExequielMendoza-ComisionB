@@ -12,6 +12,7 @@
 .textoEncabezado{
     align-self: center;
     font-family: arial;
+    color: white;
 }
 
 .contacto{
@@ -176,6 +177,7 @@
     justify-content: center;
     align-self: center;
     font-family: arial;
+    color: white;
 }
 
 .md{
