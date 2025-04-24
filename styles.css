@@ -215,8 +215,11 @@
 }
 
 .inicio{
+    font-size: 20px;
+    color: white;
     margin-top: 60px;
     display: flex;
+    bottom: auto;
     justify-content: center;
     font-family: arial;
     margin-block-end: 50px;
