@@ -101,7 +101,6 @@ para ver el css del párrafo. Copiamos y pegamos las propiedades y valores*/
     justify-content: center;
     font-family: Arial;
     text-align: center;
-    
 }
 
 .formacion{
@@ -229,3 +228,24 @@ para ver el css del párrafo. Copiamos y pegamos las propiedades y valores*/
     font-family: arial;
     margin-block-end: 50px;
 }
+
+.idiomas{
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    font-family: arial;
+    color: rgb(24, 125, 203);
+}
+
+/*Elemento, elemento*/
+table,th,td {
+    font-family: arial;
+    border: 1px solid rgb(24, 125, 203);;
+    margin: auto;
+    margin-block-end: 50px;
+}
+
+table{
+width: 300px;
+}
+
