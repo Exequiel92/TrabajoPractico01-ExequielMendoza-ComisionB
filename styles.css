@@ -240,12 +240,14 @@ para ver el css del párrafo. Copiamos y pegamos las propiedades y valores*/
 /*Elemento, elemento*/
 table,th,td {
     font-family: arial;
-    border: 1px solid rgb(24, 125, 203);;
+    border: 3px solid rgb(24, 125, 203);;
     margin: auto;
     margin-block-end: 50px;
+    padding: 8px;
 }
 
 table{
 width: 300px;
+border-collapse: collapse;
 }
 
