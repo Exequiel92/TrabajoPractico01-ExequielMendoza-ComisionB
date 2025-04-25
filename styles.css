@@ -8,8 +8,9 @@
     width: 150px;
     margin-right: 20px;
 }
-
-.textoEncabezado{
+/*Aplicamos el selector elemento,elemento y elemento elemento*/
+.textoEncabezado h1,
+.textoEncabezado h2 {
     align-self: center;
     font-family: arial;
     color: white;
