@@ -30,6 +30,8 @@
     font-family: arial;
 }
 
+/*Para que coicidan el tamaño de la imagen con el tamaño del párrafo, inspeccioné la página
+para ver el css del párrafo. Copiamos y pegamos las propiedades y valores*/
 .imgTelefono{
    display: block;
     margin-block-start: 1em;
